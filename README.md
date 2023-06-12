@@ -8,7 +8,7 @@ As informações coletadas abrangem estatísticas dos times, goleiros, finaliza�
 
 ## Ferramentas Utilizadas
 
-Para realizar a coleta de dados, utilizou-se a técnica de web scraping, utilizando bibliotecas de Python, como BeautifulSoup e Requests. Essas bibliotecas nos permitem extrair o conteúdo HTML do site FPREF. Em seguida utilizou-se a biblioteca gspread para fazer a persistência desses dados e utiliza-los posteriormente para análise.
+Para realizar a coleta de dados, utilizou-se a técnica de web scraping, utilizando bibliotecas de Python, como BeautifulSoup e Requests. Essas bibliotecas nos permitem extrair o conteúdo HTML do site FPREF. Em seguida utilizou-se a biblioteca gspread para fazer a persistência desses dados e utilizá-los posteriormente para análise.
 
 Além disso, para a análise de dados, utilizaram-se as bibliotecas populares de Python, como Pandas, NumPy, Matplotlib e Seaborn. Essas bibliotecas fornecem funcionalidades poderosas para manipulação, visualização e análise de dados, permitindo-nos obter insights valiosos a partir dos dados coletados.
 
