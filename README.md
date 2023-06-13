@@ -25,3 +25,5 @@ Os dados podem ser acessados através desse [link](https://docs.google.com/sprea
 
 - Realizou-se a limpeza dos dados coletados, tratando eventuais valores ausentes, inconsistências ou erros.
 - Realizou-se a transformação e formatação dos dados para uma planilha do google sheets.
+
+## Test
