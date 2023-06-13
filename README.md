@@ -1,5 +1,7 @@
 # Análise de Dados das Equipes do Brasileirão
 
+![article cover](images/article_cover.jpg)
+
 ## Visão Geral
 
 O objetivo deste projeto de análise de dados é coletar informações estatísticas das equipes que disputam a Série A do Campeonato Brasileiro de Futebol Masculino. Para isso, utilizou-se técnicas de web scraping para extrair os dados relevantes do site FPREF, que contém estatísticas detalhadas sobre diversos aspectos do jogo.
