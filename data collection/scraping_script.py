@@ -14,8 +14,10 @@ from pydrive.drive import GoogleDrive
 scopes = ['https://www.googleapis.com/auth/spreadsheets',
           'https://www.googleapis.com/auth/drive']
 
+json_path = r'C:\Users\pedro\Projetos_Python\Projetos\Portifolio\web_scraping_fut\Estatisticas_Brasileirao\data collection\gbq.json'
+
 # Carregar as credenciais a partir do arquivo JSON 'gbq.json' e definir as permissões
-credentials = Credentials.from_service_account_file(r'C:\Users\pedro\Projetos_Python\Projetos\Portifolio\web_scraping_fut\Estatisticas_Brasileirao\data collection\gbq.json', scopes=scopes)
+credentials = Credentials.from_service_account_file(json_path, scopes=scopes)
 
 # Autorizar o acesso às planilhas do Google usando as credenciais
 gc = gspread.authorize(credentials)
