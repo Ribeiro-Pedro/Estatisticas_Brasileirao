@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "disco-plane-350516",
+  "private_key_id": "3042ef21ead5876f81a76cf3d0b4bc8dfb0b9371",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDAB/vwm5Qj/Rgx\nQjbxxmSD1wp0Weo15+ifu1k+Hm+CAaldiFAgZmPtZumByvJBTaTGp6mH6dByWzjs\nPc0zqQrZ+oJEHtMbjtHCOoDBayhRNWZZ1xebXBN1KrInb35UEPw82uQMk79xWgnv\n4oCJBWUKQBksTqNRG/afgrjqbDYv2EQPc0+mG97aZqzby6McXVffookCnv38CFJs\nnVJqMxMafH+pV2Pbpl0CvotGkxPK1IteAdUw3enOeTohKvfiV0xS9G+Jgb3pl1dS\n4ISfIPxWKtTWXNArFAfwStdfa0ZGXpqiShErESYPC40Sdj4Q7CsVZlTWIXTlVpMM\nIJ/Lu6yhAgMBAAECggEABc6QAFcCDYMMftvVhm2P3KVCxjaHBLWJioAAteZMzAHX\nGxJsIt4EcPlq/6nmi2c+H6Q9C188i+K6jPlISeLsxontiRgPXUlYtOQDlfsSsL75\nxFHNlNJTA84PAwPbTk6RBBmV6mlIMXTYsVR4UNG/vBCTZPcP96ajSEWh6B6DgSI+\ncmwe5b3/smrIuPBlyznSzUISHY0MvyGCkODycHJQAn8cCHXP7kKrOCgEaGhjpn+B\nExM/BlFbPDPEvp7aSpjZhQs0hiv+uy+qJXZYoJ0A3qakNQnvcE7J+JKtGYNu8+C+\nT7QNGDPDhTnEoAhER5w4gVkgJimrh0sDgT4va44ZGQKBgQD3OiTRzseXjo0BUh9i\n2mhs3Ud7Zf+hZalEY6QZgOzx5EFdFW010TItx0wdqqHDx5RO79h9pydD4TmY/Tb3\ng8ITxkDZh0cZIGPVhXEThQN2nV12Z/ZTMXCbkpybcefc2cm4yC7foSW1RlMBvOBn\n3i2DYL/mro34fWUsRcL27/W7iQKBgQDG2G4t2xa2Y0VxrmApw9rf6/yskvjf4HrV\npH6SV3oeM2wSpHgjCmzCbes7VOlHrILB+jIBX+h4kU/6IrJ+YFzEQwrII7cqcC4Z\nD97VczraVtN9ouL5RpOMDa4aqXiQvrTygEQSUL1rdPjfJvz97ix6PNEqmJBdzSyC\nbE47+wEqWQKBgAUt7amLmHjfXqrhapDqnHdzZ1T5fRKHi7VIFR8HqW8j5g6qLUCM\nYm29GCYi9gKhAsVolvOC9fqhFFDVNTqYQw+g/qjQAbhQCmdlxUmwZrMsdtHNOcbi\naUaJGsjS6RWiZmx9nSXIPX7/uyt1JopmiDORalPN4mGLVvxHdd8whchpAoGAB+Hw\njDTRM62/xP/qo/01ogbS32x8HTPi6rE4q0h4eNYFBMAsWwdAxHxjBNka3lKCZHos\nnU1WA+GO0BWsCcJ8KvOVa9WunyoPScMNTFzjCmDCxYo9gTBBDR5FtpzdQK+usKZR\nDIDS4X2jmAUNpmtYrAfZKt0da/qENy9f8pTCuRECgYEAhGWwVJmC8HmA95465dEK\n0RB7kxU8B9cTcgq5jGjnn3KRphg+0qxCeqjT6ic1FIeYvREI77Phct5FL7QBil2B\nSSDzHioRcdIjJVv+BOwjvQ/Q9HSpeAIQLTIOeI79WNnag23zf3ELQvfAyJA7144D\nPFID1lmwjsRt8BEUB6faatA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "testegbq@disco-plane-350516.iam.gserviceaccount.com",
+  "client_id": "114452222052688241521",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/testegbq%40disco-plane-350516.iam.gserviceaccount.com"
+}
