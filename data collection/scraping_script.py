@@ -17,7 +17,11 @@ scopes = ['https://www.googleapis.com/auth/spreadsheets',
 json_path = r'C:\Users\pedro\Projetos_Python\Projetos\Portifolio\web_scraping_fut\Estatisticas_Brasileirao\data collection\gbq.json'
 
 # Carregar as credenciais a partir do arquivo JSON 'gbq.json' e definir as permissões
+<<<<<<< HEAD
 credentials = Credentials.from_service_account_file(json_path, scopes=scopes)
+=======
+credentials = Credentials.from_service_account_file('gbq.json', scopes=scopes)
+>>>>>>> parent of 22f8144 (agosto)
 
 # Autorizar o acesso às planilhas do Google usando as credenciais
 gc = gspread.authorize(credentials)
