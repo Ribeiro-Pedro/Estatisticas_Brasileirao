@@ -19,7 +19,11 @@ json_path = r'C:\Users\pedro\Projetos_Python\Projetos\Portifolio\web_scraping_fu
 # Carregar as credenciais a partir do arquivo JSON 'gbq.json' e definir as permissões
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 credentials = Credentials.from_service_account_file(json_path, scopes=scopes)
+=======
+credentials = Credentials.from_service_account_file('gbq.json', scopes=scopes)
+>>>>>>> parent of 22f8144 (agosto)
 =======
 credentials = Credentials.from_service_account_file('gbq.json', scopes=scopes)
 >>>>>>> parent of 22f8144 (agosto)

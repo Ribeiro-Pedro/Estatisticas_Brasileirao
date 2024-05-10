@@ -1,0 +1,117 @@
+[33mcommit 1891c7d7e1c52717c3a9d4c06fabf253efbfecae[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Pedro Ribeiro <pedro.rocha257@gmail.com>
+Date:   Thu May 9 20:31:22 2024 -0300
+
+    Update scraping_script.py
+
+[33mcommit f5eac0bab9b767e5195eedd3048a3793b7665de8[m
+Author: Pedro Ribeiro <pedro.rocha257@gmail.com>
+Date:   Thu May 9 20:16:03 2024 -0300
+
+    atualizacao 2024
+
+[33mcommit 07c9822d3261fa8baa2609456c00b7768e40b843[m
+Author: Pedro Ribeiro <pedro.rocha257@gmail.com>
+Date:   Thu May 9 20:11:59 2024 -0300
+
+    atualizacao 2024
+
+[33mcommit 6041f05d37f6c25418370411c8e6077037df992e[m
+Author: Pedro Ribeiro <pedro.rocha257@gmail.com>
+Date:   Wed Aug 9 22:37:18 2023 -0300
+
+    json path
+
+[33mcommit 22f8144dfa3654fdad68fe19f974af983b4eb0d8[m
+Author: Pedro Ribeiro <pedro.rocha257@gmail.com>
+Date:   Wed Aug 9 22:35:44 2023 -0300
+
+    agosto
+
+[33mcommit 14ff061f501d3a34e1a811300007152e187c2464[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Pedro Ribeiro <pedro.rocha257@gmail.com>
+Date:   Sun Jun 18 13:48:08 2023 -0300
+
+    add xG concept
+
+[33mcommit 0cc83630694c6ee5a61d85b61a31a7551059d6eb[m
+Author: Pedro Ribeiro <pedro.rocha257@gmail.com>
+Date:   Sun Jun 18 13:19:36 2023 -0300
+
+    xGoals analise
+
+[33mcommit 659dc1ed36ae06b1f91623a0dace090f32bf5d0e[m
+Author: Pedro Ribeiro <pedro.rocha257@gmail.com>
+Date:   Tue Jun 13 20:43:20 2023 -0300
+
+    remove test
+
+[33mcommit 6c4af01624d0c1d902e0ab0bcde0915e8583c1c9[m
+Merge: 8c0ab73 f54ec48
+Author: Pedro Ribeiro <pedro.rocha257@gmail.com>
+Date:   Tue Jun 13 20:35:34 2023 -0300
+
+    Merge branch 'main' of https://github.com/Ribeiro-Pedro/Estatisticas_Brasileirao
+
+[33mcommit 8c0ab7378ae55e729bb53ed1cbc246003b6e87c9[m
+Author: Pedro Ribeiro <pedro.rocha257@gmail.com>
+Date:   Tue Jun 13 20:35:14 2023 -0300
+
+    test
+
+[33mcommit f54ec48f0a78a8a5d05858dc3c448f35818d509e[m
+Author: Ribeiro-Pedro <98595303+Ribeiro-Pedro@users.noreply.github.com>
+Date:   Mon Jun 12 16:40:47 2023 -0300
+
+    add article cover
+
+[33mcommit 7fac5700d1d3eaef7e26988d709f9e065529a3af[m
+Merge: 1684a7a fbef286
+Author: Pedro Ribeiro <pedro.rocha257@gmail.com>
+Date:   Mon Jun 12 16:38:24 2023 -0300
+
+    Merge branch 'main' of https://github.com/Ribeiro-Pedro/Estatisticas_Brasileirao
+
+[33mcommit 1684a7a74a76d5d12868aae084db83db115adb1f[m
+Author: Pedro Ribeiro <pedro.rocha257@gmail.com>
+Date:   Mon Jun 12 16:37:58 2023 -0300
+
+    add image folder
+
+[33mcommit fbef28614e44f2066aa1378c0b87093a71c774b1[m
+Author: Ribeiro-Pedro <98595303+Ribeiro-Pedro@users.noreply.github.com>
+Date:   Mon Jun 12 16:29:31 2023 -0300
+
+    Update README.md
+    
+    acento em utilizá-lo
+
+[33mcommit e98b072af1a935bfa15f781009f262da4cf2fb9b[m
+Author: Pedro Ribeiro <pedro.rocha257@gmail.com>
+Date:   Mon Jun 12 15:52:06 2023 -0300
+
+    link gsheets
+
+[33mcommit 61dab94e1d5ed76ad534177e895c5ecb1c928b1a[m
+Author: Pedro Ribeiro <pedro.rocha257@gmail.com>
+Date:   Tue Jun 6 17:43:23 2023 -0300
+
+    Comentarios no codigo
+
+[33mcommit e709bfc036584cc62ae335b615edfb0c650ba162[m
+Author: Pedro Ribeiro <pedro.rocha257@gmail.com>
+Date:   Tue Jun 6 14:46:38 2023 -0300
+
+    add readme
+
+[33mcommit c80f56b2db7bc511eca011f45d7dbb2a68c4e154[m
+Author: Pedro Ribeiro <pedro.rocha257@gmail.com>
+Date:   Tue Jun 6 14:27:49 2023 -0300
+
+    primeiro commit
+
+[33mcommit cc1d32531b3077eecb8e872f7f8c70b6598644dd[m
+Author: Ribeiro-Pedro <98595303+Ribeiro-Pedro@users.noreply.github.com>
+Date:   Tue Jun 6 14:06:39 2023 -0300
+
+    Initial commit
